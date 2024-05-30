@@ -15,4 +15,6 @@
     <dependencies>
         <!-- Tus dependencias aquí -->
     </dependencies>
+    <finalName>devops-integracion</finalName>
+    
 </project>
